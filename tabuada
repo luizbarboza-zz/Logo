@@ -1,0 +1,3 @@
+to pauzinho fd 30 penup rt 90 fd 5 rt 90 fd 30 rt 180 pendown end
+to esp penup fd 30  rt 90 fd 5 rt 90 fd 30 rt 180 pendown end
+to tab :n :m repeat :n [  repeat :m [pauzinho] esp ] end 
